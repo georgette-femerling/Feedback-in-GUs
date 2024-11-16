@@ -1,5 +1,5 @@
 # Feedback in GUs
-This git contains all the scripts and data used to build GENSOR Units from a regulatory network and calculate their feedback.
+This git contains all the scripts and data used to build GENSOR Units from a regulatory network and calculate their feedback. 
 Paper: [Sensory Systems and Transcriptional Regulation in Escherichia coli](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2022.823240/full)
 
 ## Dependencies
@@ -42,7 +42,10 @@ Original scripts to build Gensor Units can be found in: [This Repository](https:
 - Gensor Unit builing - Daniela Ledezma-Tejeida
 - Feedback Calculation and updates - Georgette Femerling
 
-Citation for Feedback calculation: 
-```Femerling, G. et al. (2022) ‘Sensory systems and transcriptional regulation in escherichia coli’, Frontiers in Bioengineering and Biotechnology, 10. doi:10.3389/fbioe.2022.823240.```
+Citation for Feedback calculation:  
+```
+Femerling, G. et al. (2022) ‘Sensory systems and transcriptional regulation in escherichia coli’,
+Frontiers in Bioengineering and Biotechnology, 10. doi:10.3389/fbioe.2022.823240.
+```
 
 
